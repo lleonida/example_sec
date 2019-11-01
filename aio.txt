@@ -10,9 +10,9 @@ create table User(
 );
 */
     $db_server = "192.168.55.32";
-    $db_user = "S2017204381_ZV2";
-    $db_pass = "S2017204381_ZV2";
-    $db_name = "S2017204381_ZV2";
+    $db_user = "S20********_ZV*";
+    $db_pass = "S20********_ZV*";
+    $db_name = "S20********_ZV*";
 __________________________________
 
 index.php
