@@ -6,6 +6,7 @@ create table User(
     id integer NOT NULL AUTO_INCREMENT primary key,
     username varchar(40),
     password varchar(64),
+    salt varchar(16),
     enabled char(1)
 );
 */
